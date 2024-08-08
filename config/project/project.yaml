@@ -1,4 +1,4 @@
-dateModified: 1723084153
+dateModified: 1723084780
 email:
   fromEmail: mwurquha@gmail.com
   fromName: 'Test Site'
@@ -10,7 +10,8 @@ meta:
 system:
   edition: solo
   live: true
-  name: 'Test Site'
+  name: 'Local Test Site'
+  retryDuration: null
   schemaVersion: 5.3.0.2
   timeZone: America/Los_Angeles
 users:
